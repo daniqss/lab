@@ -4,3 +4,6 @@
 !README.md
 !linux/
 !linux/**/*
+!readings/
+!readings/the-wayland-protocol/
+!readings/the-wayland-protocol/*
