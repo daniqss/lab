@@ -7,3 +7,5 @@
 !readings/
 !readings/the-wayland-protocol/
 !readings/the-wayland-protocol/*
+!zig/
+!zig/**/*
